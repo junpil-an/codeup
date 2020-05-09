@@ -1,4 +1,4 @@
-![](C:\Users\sky\AppData\Roaming\Typora\typora-user-images\image-20200428203454492.png)
+![](./img/image-20200428203454492.png)
 
 ## 1261 First Special Judge (Test)
 
